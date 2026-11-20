@@ -1,0 +1,6 @@
+flag_value {
+  package: "android.appwidget.flags"
+  name: "delete_widget_skip_null_update"
+  state: ENABLED
+  permission: READ_ONLY
+}
